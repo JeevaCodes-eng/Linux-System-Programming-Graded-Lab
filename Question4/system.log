@@ -1,1 +1,5 @@
-
+INFO Server Started
+INFO Connection Accepted
+ERROR Database Failure
+INFO Request Completed
+ERROR Timeout
